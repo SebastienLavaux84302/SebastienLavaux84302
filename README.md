@@ -13,6 +13,18 @@
 ![Uplo![github-user-light](https://github.com/SebastienLavaux84302/SebastienLavaux84302/assets/97223192/13f625f3-5567-4b8d-bb9e-bda651607c87)ading github-user-dark.svg…]()
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-user-light.svg" />
+  <img alt="github-snake" src="assets/github-user-light.svg" />
+</picture>
+
+
+
+
+
+
+
 <!--
 **SebastienLavaux84302/SebastienLavaux84302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
