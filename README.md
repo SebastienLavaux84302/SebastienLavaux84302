@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,c,bash,powershell,qt,docker,vim,vscode,gitlab)](https://skillicons.dev)
 
 <!--
 **SebastienLavaux84302/SebastienLavaux84302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
