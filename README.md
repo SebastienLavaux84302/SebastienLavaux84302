@@ -19,6 +19,7 @@ Administrateur systèmes et sécurité avec environ **5 ans d'expérience**, j'a
 | [Ansible Linux Workstation](https://github.com/SebastienLavaux84302/ansible-linux-workstation) | Rôle expérimental de préparation de postes RHEL 9, avec gestion des dépôts Satellite en environnement déconnecté. |
 | [Homelab Infrastructure](https://github.com/SebastienLavaux84302/homelab-infrastructure) | Présentation de mon lab Proxmox, de mes expérimentations et exemple de diagnostic Ansible. |
 | [Security Detection Lab](https://github.com/SebastienLavaux84302/security-detection-lab) | Démarche de détection et petit outil Python sur des événements fictifs. |
+| [Banner Grabber](https://github.com/SebastienLavaux84302/Banner_Grabber) | Prototype Python d'exploration de ports TCP et de réponses de services en laboratoire. |
 
 ## 🧪 Apprendre en expérimentant
 
