@@ -29,7 +29,9 @@ Mon réseau personnel UniFi me permet également de pratiquer autour du pare-feu
 
 ## 📚 Formation et veille pratique
 
-Formation Bac +5 en ingénierie informatique, parcours cybersécurité ; **CCNA1 obtenu**, Red Hat Administration I en cours. Je poursuis également ma pratique sur [PentesterLab](https://pentesterlab.com/profile/SebastienLavaux84302), TryHackMe et à travers des exercices de préparation à l'OSCP.
+Formation Bac +5 en ingénierie informatique, parcours cybersécurité ; **CCNA1 obtenu**, Red Hat Administration I en cours. Je poursuis également ma pratique sur [PentesterLab](https://pentesterlab.com/profile/SebastienLavaux84302), [TryHackMe](https://tryhackme.com/p/rZm404) et à travers des exercices de préparation à l'OSCP.
+
+[![Profil TryHackMe de rZm404](assets/tryhackme-profile.svg)](https://tryhackme.com/p/rZm404)
 
 ## 🤝 Ma façon de travailler
 
