@@ -4,8 +4,6 @@
 
 Administrateur systèmes et sécurité avec environ **5 ans d'expérience**, j'aime comprendre les infrastructures, les rendre plus simples à administrer et automatiser les tâches répétitives. Je m'intéresse particulièrement aux environnements Linux, aux systèmes déconnectés et à la sécurité.
 
-Mon parcours comprend également **trois années de service en tant que militaire**.
-
 ## 🔧 Domaines de pratique
 
 - **Systèmes et accès** : Linux, Red Hat Satellite, SSSD, Wallix Bastion.
